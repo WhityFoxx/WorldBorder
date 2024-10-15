@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WorldBorderFix:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WorldBorderFix_jar</output-path>
+    <root id="archive" name="WorldBorderFix.jar">
+      <element id="module-output" name="WorldBorderFix" />
+    </root>
+  </artifact>
+</component>
